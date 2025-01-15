@@ -27,7 +27,7 @@ apply plugin: "kotlin-android"
 android {
     namespace = "com.yrp.native_android_navigation_checker"
 
-    compileSdk = 35
+    compileSdk = 34
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
