@@ -1,5 +1,5 @@
 name: native_android_navigation_checker
-description: "A new Flutter project."
+description: A plugin to detect if 3-button navigation is enabled on Android devices.
 version: 0.0.1
 homepage: https://github.com/yogesh1111/navigation_checker
 repository: https://github.com/yogesh1111/navigation_checker
