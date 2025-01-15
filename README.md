@@ -1,15 +1,15 @@
-# native_android_navigation_checker
+# Bottom Navigation Detector
 
-A new Flutter project.
+A Flutter plugin to detect if 3-button navigation is enabled on Android devices.
+
+## Features
+
+- Detects if the user is using 3-button navigation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+Add the plugin to your `pubspec.yaml`:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+```yaml
+dependencies:
+  bottom_navigation_detector: ^0.0.1
